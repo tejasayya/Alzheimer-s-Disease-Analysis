@@ -1,6 +1,6 @@
 # Alzheimer's Predictive Analysis
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1G-9fGd6_507aWwMgHHmE1JI2cSEnG-Ht?usp=sharing)
+[![Open in Colab](https://colab.research.google.com/gist/tejasayya/c4f1994d4733858a6138ba5296ebee11/alzheimer-s-predictive-analysis.ipynb)
 
 
 ## Project Introduction 
