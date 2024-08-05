@@ -1,4 +1,4 @@
-# Alzheimer's Predictive Analytics
+# Alzheimer's Predictive Analysis
 ## ITCS 6162 KDD Group 1
 
 
