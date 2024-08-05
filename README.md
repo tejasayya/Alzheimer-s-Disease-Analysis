@@ -38,16 +38,16 @@ This suggests that how a person lives and their cognitive abilities may provide 
 
 ##### Exploratory Data Analysis (EDA) reveals key insights:
 - Age: Most patients are in this age Group [61, 68, 75, 82, 89].
-![age](https://github.com/allarohithreddy/KDD-GRP-1/blob/main/assets/age.png)
+![age](https://github.com/tejasayya/Alzheimer-s-Disease-Analysis/blob/main/assets/age.png)
 
 
 As Data is Huge took only the age bracket between 70 to 73. **outliers are high**.
 
-![agee](https://github.com/allarohithreddy/KDD-GRP-1/blob/main/assets/symptom_counts.png)
+![agee](https://github.com/tejasayya/Alzheimer-s-Disease-Analysis/blob/main/assets/symptom_counts.png)
 
 
 - Gender: Comparison of Alzheimer's diagnoses between males and females.
-![gender](https://github.com/allarohithreddy/KDD-GRP-1/blob/main/assets/gender.png)
+![gender](https://github.com/tejasayya/Alzheimer-s-Disease-Analysis/blob/main/assets/gender.png)
   
 - Ethnicity and Education: Analysis of diagnosis rates across ethnic groups and education levels.
 - 0: Caucasian
@@ -55,7 +55,7 @@ As Data is Huge took only the age bracket between 70 to 73. **outliers are high*
 - 2: Asian
 - 3: Other
   
-![ethnicity](https://github.com/allarohithreddy/KDD-GRP-1/blob/main/assets/enthnicity.png)
+![ethnicity](https://github.com/tejasayya/Alzheimer-s-Disease-Analysis/blob/main/assets/enthnicity.png)
 
 
 EducationLevel: The education level of the patients, coded as follows:
@@ -64,30 +64,30 @@ EducationLevel: The education level of the patients, coded as follows:
 - 2: Bachelor's
 - 3: Higher
   
-![Education](https://github.com/allarohithreddy/KDD-GRP-1/blob/main/assets/education.png)
+![Education](https://github.com/tejasayya/Alzheimer-s-Disease-Analysis/blob/main/assets/education.png)
 
 
 
 - Lifestyle Factors: Box plots showing BMI, alcohol consumption, physical activity, diet, and sleep quality differences by diagnosis status.
 
 
-![lifestyle](https://github.com/allarohithreddy/KDD-GRP-1/blob/main/assets/smoking.png)
+![lifestyle](https://github.com/tejasayya/Alzheimer-s-Disease-Analysis/blob/main/assets/smoking.png)
 
-![lifestyle](https://github.com/allarohithreddy/KDD-GRP-1/blob/main/assets/AlchoholConsumption.png)
+![lifestyle](https://github.com/tejasayya/Alzheimer-s-Disease-Analysis/blob/main/assets/AlchoholConsumption.png)
 
-![lifestyle](https://github.com/allarohithreddy/KDD-GRP-1/blob/main/assets/Physical%20Activity.png)
+![lifestyle](https://github.com/tejasayya/Alzheimer-s-Disease-Analysis/blob/main/assets/Physical%20Activity.png)
 
-![lifestyle](https://github.com/allarohithreddy/KDD-GRP-1/blob/main/assets/BMI.png)
+![lifestyle](https://github.com/tejasayya/Alzheimer-s-Disease-Analysis/blob/main/assets/BMI.png)
 
-![lifestyle](https://github.com/allarohithreddy/KDD-GRP-1/blob/main/assets/SleppQuality.png)
+![lifestyle](https://github.com/tejasayya/Alzheimer-s-Disease-Analysis/blob/main/assets/SleppQuality.png)
 
 
 - Medical History: Prevalence of medical conditions in diagnosed vs. non-diagnosed patients.
 
 
-![Behavioural Problems](https://github.com/allarohithreddy/KDD-GRP-1/blob/main/assets/Diagnosis.png)
+![Behavioural Problems](https://github.com/tejasayya/Alzheimer-s-Disease-Analysis/blob/main/assets/Diagnosis.png)
 
-![memory complaints](https://github.com/allarohithreddy/KDD-GRP-1/blob/main/assets/memorycomplaints.png)
+![memory complaints](https://github.com/tejasayya/Alzheimer-s-Disease-Analysis/blob/main/assets/memorycomplaints.png)
 
 - Clinical Measurements: Blood pressure and cholesterol level distributions.
 - Cognitive Assessments: Differences in MMSE, functional assessment, and ADL scores.
@@ -97,7 +97,7 @@ EducationLevel: The education level of the patients, coded as follows:
 
 These insights inform the selection of features and algorithms for predictive modelling. 
 
-![insights](https://github.com/allarohithreddy/KDD-GRP-1/blob/main/assets/insights.png)
+![insights](https://github.com/tejasayya/Alzheimer-s-Disease-Analysis/blob/main/assets/insights.png)
 
 
 
@@ -200,7 +200,7 @@ Used GridSearchCV() to tune hyperparameters for each model using the narrowed-do
 The accuracy scores and classification reports for the highest-performing models can be seen below. 
 
 
-![Accuracy](https://github.com/allarohithreddy/KDD-GRP-1/blob/main/assets/Accuracy.png)
+![Accuracy](https://github.com/tejasayya/Alzheimer-s-Disease-Analysis/blob/main/assets/Accuracy.png)
 
 
 
@@ -209,7 +209,7 @@ The evaluation metrics for several other models using Pycaret are provided in th
 
 
 
-![allmodelaccuracy](https://github.com/allarohithreddy/KDD-GRP-1/blob/main/assets/allmodelaccuracy.png)
+![allmodelaccuracy](https://github.com/tejasayya/Alzheimer-s-Disease-Analysis/blob/main/assets/allmodelaccuracy.png)
 
 
 
